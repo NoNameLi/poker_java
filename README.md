@@ -21,3 +21,6 @@
                         
   poker类的发牌方法： 随机从卡牌List中选择13张牌保存到玩家的手牌List中
                       最后的玩家直接获得剩余的卡牌
+	
+类图：
+	![Alt text](https://github.com/NoNameLi/raw/master/picture/poker.PNG)
