@@ -23,4 +23,5 @@
                       最后的玩家直接获得剩余的卡牌
 	
 类图：
-	![Alt text](https://github.com/NoNameLi/raw/master/picture/poker.PNG)
+	![Alt text](https://github.com/NoNameLi/poker_java/raw/master/picture/poker.PNG)
+	
